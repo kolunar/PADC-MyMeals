@@ -14,7 +14,7 @@
         android:textColor="@color/primary_text"
         />
 
-    <xyz.aungpyaephyo.padc.mymeals.components.DynamicHeightImageView
+    <com.padc.aml.mymeals.components.DynamicHeightImageView
         android:id="@+id/iv_meal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
