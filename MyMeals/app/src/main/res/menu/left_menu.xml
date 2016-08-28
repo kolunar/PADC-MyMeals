@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/my_meals_recycler_view"
+            android:title="My Meals Recycler View"
+            android:checked="true"
+            />
+
+        <item
+            android:id="@+id/my_meals_list_view"
+            android:title="My Meals List View"/>
+
+        <item
+            android:id="@+id/my_meals_grid_view"
+            android:title="My Meals Grid View"
+            />
+
+    </group>
+</menu>

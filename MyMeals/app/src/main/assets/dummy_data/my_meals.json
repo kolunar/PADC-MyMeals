@@ -1,0 +1,153 @@
+{
+    "code": 200,
+    "message": "success",
+    "meal_list": [
+        {
+            "id": 0,
+            "name": "Fried Chicken",
+            "img_url": "http://i.imgur.com/29UP7x3.png",
+            "description": "Fried chicken is a dish consisting of chicken pieces usually from broiler chickens which have been floured or battered and then pan-fried, deep fried, or pressure fried. The breading adds a crisp coating or crust to the exterior",
+            "price": 5000,
+            "ingredients": [
+                "1 broiler/fryer chicken, cut into 8 pieces",
+                "2 cups low fat buttermilk",
+                "2 tablespoons kosher salt",
+                "2 tablespoons Hungarian paprika",
+                "2 teaspoons garlic powder",
+                "1 teaspoon cayenne pepper",
+                "Flour",
+                "Vegetable shortening"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Pan Fried Pork Chop",
+            "img_url": "http://i.imgur.com/jdTgXPK.png",
+            "description": "A pork chop is a chop of pork cut perpendicularly to the spine of the pig and usually containing a rib or part of a vertebra, served as an individual portion",
+            "price": 5000,
+            "ingredients": [
+                "1 teaspoon seasoned salt",
+                "1 teaspoon ground black pepper",
+                "8 pork breakfast chops",
+                "1 cup all-purpose flour",
+                "Cayenne pepper",
+                "1/2 cup canola oil",
+                "1 tablespoon butter",
+                "Smashed new potatoes"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Fried Rice",
+            "img_url": "http://i.imgur.com/9KLd0vn.png",
+            "description": "Fried rice is a Chinese dish of steamed rice that has been stir-fried in a wok and, usually, mixed with other ingredients, such as eggs, vegetables, and meat, and as such, often served as a complete dish.",
+            "price": 2500,
+            "ingredients": [
+                "8 dried shiitake mushrooms",
+                "3 tablespoons peanut oil",
+                "2 large eggs, lightly beaten with a pinch of kosher salt",
+                "4 scallions (white and green), thinly sliced",
+                "1/4 cup minced carrot",
+                "1 large clove garlic, minced",
+                "Pinch red chile flakes",
+                "1 teaspoon minced peeled fresh ginger",
+                "2 tablespoons soy sauce",
+                "1 teaspoon toasted sesame oil",
+                "3 cups cooked long-grain rice",
+                "1 cup cooked meat cut in 1/2-inch cubes, such as pork, ham, beef, or chicken",
+                "1/2 cup frozen peas, defrosted in a strainer at room temperature"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Mexican Chicken Soup",
+            "img_url": "http://i.imgur.com/jNXZyaH.png",
+            "description": "Chicken soup is a soup made from chicken, simmered in water, usually with various other ingredients. The classic chicken soup consists of a clear chicken broth, often with pieces of chicken or vegetables",
+            "price": 4500,
+            "ingredients": [
+                "3 boneless, skinless whole chicken breasts",
+                "1 teaspoon chili powder",
+                "1 teaspoon ground cumin",
+                "Kosher salt and freshly ground black pepper",
+                "One 28-ounce can whole or diced tomatoes, with juice",
+                "3 cups low-sodium chicken broth (more if you like the soup more liquid)",
+                "One 15-ounce can black beans, drained and rinsed"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Carrot Orange Juice",
+            "img_url": "http://i.imgur.com/kRJEoGB.png",
+            "description": "Orange juice is the liquid extract of the fruit of the orange tree, made by squeezing the fresh orange. ",
+            "price": 1000,
+            "ingredients": [
+                "3 medium carrots, peeled",
+                "2 medium oranges, peel and pith removed",
+                "1 tablespoon chia seeds, optional"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chicken Hamburger",
+            "img_url": "http://i.imgur.com/hmZ7LUE.png",
+            "description": "A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. Hamburgers may be cooked in a variety of ways, including pan-frying, barbecuing, and flame-broiling.",
+            "price": 1000,
+            "ingredients": [
+                "1 pound ground white meat chicken",
+                "2 cups coarse to fine fresh bread crumbs, divided (not canned)",
+                "1/2 cup low-fat milk",
+                "3 tablespoons grated sweet onion (or finely, finely minced)",
+                "1/4 teaspoon cayenne pepper",
+                "3/4 teaspoon coarse grained salt",
+                "Cracked black pepper",
+                "1 teaspoon olive oil"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "French Fries",
+            "img_url": "http://i.imgur.com/EWJCWOJ.png",
+            "description": "French fries, chips, fries, finger chips, or French-fried potatoes are batonnet or allumette cut potato that are deep-fried.",
+            "price": 1500,
+            "ingredients": [
+                "5 pounds russet potatoes",
+                "Vegetable or peanut oil, for frying",
+                "Sea salt"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Barbecued Chicken",
+            "img_url": "http://i.imgur.com/9c4NzuS.png",
+            "description": "arbecue chicken consists of chicken parts or entire chickens[1] that are barbecued, grilled or smoked. There are many global and regional preparation techniques and cooking styles.",
+            "price": 7500,
+            "ingredients": [
+                "2 quarts water",
+                "2 tablespoons kosher salt",
+                "1/4 cup brown sugar",
+                "2 garlic cloves, smashed with the side of a large knife",
+                "4 sprigs fresh thyme",
+                "6 chicken legs and thighs, still connected, bone in, skin on, about 10 ounces each"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Potato Salad",
+            "img_url": "http://i.imgur.com/ijPs9Rk.png",
+            "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing.",
+            "price": 2500,
+            "ingredients": [
+                "3 pounds small white potatoes",
+                "Kosher salt",
+                "1 cup mayonnaise",
+                "1/4 cup buttermilk",
+                "2 tablespoons Dijon mustard",
+                "2 tablespoons whole-grain mustard",
+                "1/2 cup chopped fresh dill",
+                "Freshly ground black pepper",
+                "1/2 cup chopped celery",
+                "1/2 cup chopped red onion"
+            ]
+        }
+    ]
+}
